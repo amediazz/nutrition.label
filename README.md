@@ -4,4 +4,4 @@
    In this course, you'll use typography to build a nutrition label webpage.
    You'll learn how to style text, adjust line height, and position your text using CSS.
  </p>
-<p>you can view the project:<a href="https://nutrition-label.onrender.com/">https://nutrition-label.onrender.com</a>
+<p>you can view the project : <a href="https://nutrition-label.onrender.com/">https://nutrition-label.onrender.com</a>
